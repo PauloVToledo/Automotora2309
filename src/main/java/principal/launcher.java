@@ -12,3 +12,5 @@ public class launcher {
 		new paginaPrincipal();
 	}
 }
+
+//Estudiar interfaces gráficas.
